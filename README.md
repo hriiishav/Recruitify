@@ -80,7 +80,7 @@ npm run dev
 
 ## ✅ Deliverables  
 
-- **Deployed App:** [Live Demo Link here]  
+- **Deployed App:** [Live Demo Link here(https://recruitify-olomw5q8u-hrishav-rajs-projects.vercel.app/)]  
 - **GitHub Repo:** [Recruitify](https://github.com/hriiishav/Recruitify)  
 
 ---
