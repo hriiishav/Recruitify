@@ -38,7 +38,7 @@ Recruitify is a **mini hiring platform** built with React that enables HR teams 
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React 18, React Router DOM 6  
+- **Frontend:** NextJs 
 - **State Management:** React Hooks, Context  
 - **Database:** IndexedDB (Dexie)  
 - **API Simulation:** MSW / MirageJS  
