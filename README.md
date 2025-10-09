@@ -1,6 +1,6 @@
 # Recruitify  
 
-Recruitify is a **mini hiring platform** built with React that enables HR teams to manage jobs, candidates, and assessments—all without a real backend. The project simulates server-like behavior using **MSW/MirageJS** and persists data locally with **IndexedDB (via Dexie)**.  
+Recruitify is a **mini hiring platform** built with NextJS that enables HR teams to manage jobs, candidates, and assessments—all without a real backend. The project simulates server-like behavior using **MSW/MirageJS** and persists data locally with **IndexedDB (via Dexie)**.  
 
 ---
 
